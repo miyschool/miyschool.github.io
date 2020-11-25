@@ -1,6 +1,0 @@
-﻿jQuery(function ($) {
-    $.timepickerLocalization = {
-        hourText: 'Годину',
-        minuteText: 'хвилина'
-    };
-});
