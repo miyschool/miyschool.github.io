@@ -8008,9 +8008,10 @@ table.table-with-middle-align tbody tr td {
         background: none;
     }
 }
-
+.NdPaveiksliukai img {
+    width: 100px;
+}
 /* = = = = = = = = = = END -> TABLE of DIVs = = = = = = = = = = */
-
 .active-always {
     color: #4285f4 !important;
     transform: translateY(-140%);
